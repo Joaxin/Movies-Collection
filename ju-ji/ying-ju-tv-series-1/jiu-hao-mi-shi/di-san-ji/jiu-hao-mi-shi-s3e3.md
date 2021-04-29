@@ -24,7 +24,7 @@
 
 【范例】我在没有医院大楼的情况下教野生动物。12个字母
 
-![](../../../../.gitbook/assets/tv/Inside No. 9/Inside9 S3E3/Inside9 S3E3 (4).png)
+![](../../../../.gitbook/assets/tv/Inside No. 9/Inside9 S3E3/Inside9 S3E3 (4).jpg)
 
  “I teach” or “Building”. The word “Wild” is what we refer to as an anagram-indicator. It suggests the letters can be jumbled up and rearranged. So anything such as “upset”, “excited”, “insane”. It’s telling us to mix up the letters.
 
@@ -38,7 +38,7 @@
 
  我们多了两个字母。于是我们看这里，“没有医院”。现在用哪些字母可以表示“医院”？我们需要两个字母，记得吗？如果你出了事故，如果我在黑暗中开枪打伤了你，你会马上到哪个部门？（Nina：急诊室？）太棒了！![](https://img9.doubanio.com/view/thing_review/l/public/p1150671.jpg)
 
-![](../../../../.gitbook/assets/tv/Inside No. 9/Inside9 S3E3/Inside9 S3E3 (7).png)
+![](../../../../.gitbook/assets/tv/Inside No. 9/Inside9 S3E3/Inside9 S3E3 (7).jpg)
 
  So if we remove “A” and “E” from “creature”, i.e. “creature without hospital” and mix up with “I teach”, then we get an anagram of 12 letters meaning “building”, which is…? “Architecture”!
 
@@ -50,7 +50,7 @@
 
 【好了，教授这个”red-blooded mammal”炫耀完毕之后，复杂的解谜游戏正式开始。】![](https://img9.doubanio.com/view/thing_review/l/public/p1150677.jpg)
 
-![](../../../../.gitbook/assets/tv/Inside No. 9/Inside9 S3E3/Inside9 S3E3 (9).png)
+![](../../../../.gitbook/assets/tv/Inside No. 9/Inside9 S3E3/Inside9 S3E3 (9).jpg)
 
 【字谜1】
 
@@ -58,7 +58,7 @@
 
 横行第1个：受伤后一无所有地游荡![](https://img9.doubanio.com/view/thing_review/l/public/p1150678.jpg)
 
-![](../../../../.gitbook/assets/tv/Inside No. 9/Inside9 S3E3/Inside9 S3E3 (8).png)
+![](../../../../.gitbook/assets/tv/Inside No. 9/Inside9 S3E3/Inside9 S3E3 (8).jpg)
 
 Look for a verb or an adjective that suggests movement. \(Nina: Wander?\) Bingo!
 
@@ -120,7 +120,7 @@ And what’s pink and hard in the mornings? The… \(Nina: A cock?\) Financial T
 
 （Nina：T。）没错！那么T加上一个意思是“船板”的四个字母的词。“船板”不止有一个意思记得吗？有什么“板”是你要付钱的？租金！你付钱去睡在某个地方的“床板”上。所以把托利党的首字母T放到Rent前，就得到……（Nina：特伦特！但这个……这个不是花啊！）谁说是“花”了？你念的是“花”，实际上我写的是“流动物”。流动的某个东西。在这里说的是英国的一条河，叫做特伦特。![](https://img9.doubanio.com/view/thing_review/l/public/p1150679.jpg)
 
-![](../../../../.gitbook/assets/tv/Inside No. 9/Inside9 S3E3/Inside9 S3E3 (6).png)
+![](../../../../.gitbook/assets/tv/Inside No. 9/Inside9 S3E3/Inside9 S3E3 (6).jpg)
 
 【字谜5】
 
@@ -136,7 +136,7 @@ If you evacuate something, you clear it out. So we remove the middle letter to l
 
 （Nina：计划。）计划！精准！所以我们把“Plan”放到“Swam”和DS中间，就组成了“Swamplands”，意思就是“Bog”！对吗？![](https://img9.doubanio.com/view/thing_review/l/public/p1150680.jpg)
 
-![](../../../../.gitbook/assets/tv/Inside No. 9/Inside9 S3E3/Inside9 S3E3 (10).png)
+![](../../../../.gitbook/assets/tv/Inside No. 9/Inside9 S3E3/Inside9 S3E3 (10).jpg)
 
 \(Nina: Well shouldn’t it be “Bogs”\) No necessarily.
 
@@ -162,7 +162,7 @@ If you evacuate something, you clear it out. So we remove the middle letter to l
 
 （Nina：你是纵横字谜的设置者，所以你隐瞒了一小点是吗，斯芬克斯先生？也许哦。所以这里填A，跟着是Sphinx的变位，“一小点“就是Iota，也是希腊字母表的第九个字母，我确定以及肯定你知道，斯夸尔教授。然后“为什么”和字母Y同音……意思是“让人无法呼吸”。）![](https://img9.doubanio.com/view/thing_review/l/public/p1150681.jpg)
 
-![](../../../../.gitbook/assets/tv/Inside No. 9/Inside9 S3E3/Inside9 S3E3 (1).png)
+![](../../../../.gitbook/assets/tv/Inside No. 9/Inside9 S3E3/Inside9 S3E3 (1).jpg)
 
 【教授全身僵硬坐在扶手椅中，Nina就有如手握神来之笔开始嗖嗖填满各个格子。】
 
@@ -208,11 +208,11 @@ Well if we don’t start “One” or “Bun”, then we get “Neun” which is
 
 “Origins”让我们从“一种让凶猛的繁盛”中取首字母，得出“毒蛇”。![](https://img9.doubanio.com/view/thing_review/l/public/p1150682.jpg)
 
-![](../../../../.gitbook/assets/tv/Inside No. 9/Inside9 S3E3/Inside9 S3E3 (3).png)
+![](../../../../.gitbook/assets/tv/Inside No. 9/Inside9 S3E3/Inside9 S3E3 (3).jpg)
 
 【教授把字母连起来告诉Nina，自己换了杯子，原来她才是要窒息的那个人。Nina开始全身变僵硬。教授打了电话后，泰勒博士一会儿就要出场了。】![](https://img9.doubanio.com/view/thing_review/l/public/p1150684.jpg)
 
-![](../../../../.gitbook/assets/tv/Inside No. 9/Inside9 S3E3/Inside9 S3E3 (11).png)
+![](../../../../.gitbook/assets/tv/Inside No. 9/Inside9 S3E3/Inside9 S3E3 (11).jpg)
 
 【字谜11】
 
@@ -258,11 +258,11 @@ The American poet is Edgar Guest. Mr. E Guest. “A riddle solved” is a myster
 
 ![](https://img9.doubanio.com/view/thing_review/l/public/p1150708.jpg)![](https://img9.doubanio.com/view/thing_review/l/public/p1150707.jpg)![](https://img9.doubanio.com/view/thing_review/l/public/p1150709.jpg)![](https://img9.doubanio.com/view/thing_review/l/public/p1150710.jpg)
 
-![](../../../../.gitbook/assets/tv/Inside No. 9/Inside9 S3E3/Inside9 S3E3 (12).png)
+![](../../../../.gitbook/assets/tv/Inside No. 9/Inside9 S3E3/Inside9 S3E3 (12).jpg)
 
-![](../../../../.gitbook/assets/tv/Inside No. 9/Inside9 S3E3/Inside9 S3E3 (5).png)
+![](../../../../.gitbook/assets/tv/Inside No. 9/Inside9 S3E3/Inside9 S3E3 (5).jpg)
 
-![](../../../../.gitbook/assets/tv/Inside No. 9/Inside9 S3E3/Inside9 S3E3 (13).png)
+![](../../../../.gitbook/assets/tv/Inside No. 9/Inside9 S3E3/Inside9 S3E3 (13).jpg)
 
-![](../../../../.gitbook/assets/tv/Inside No. 9/Inside9 S3E3/Inside9 S3E3 (14).png)
+![](../../../../.gitbook/assets/tv/Inside No. 9/Inside9 S3E3/Inside9 S3E3 (14).jpg)
 
