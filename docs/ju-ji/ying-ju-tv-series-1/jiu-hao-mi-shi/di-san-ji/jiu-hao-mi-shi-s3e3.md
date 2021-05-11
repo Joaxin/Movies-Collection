@@ -1,7 +1,5 @@
 # 九号秘事S3E3
 
-# Initial page
-
 > [https://movie.douban.com/review/9028822/](https://movie.douban.com/review/9028822/)
 
  在我心中，S3E3是让我高度集中运转的兴奋剂，是戏剧中的高智商的经典！看第二遍的时候，就燃起了对那些crossword的熊熊好奇心，有了强烈的冲动要把他们都弄明白。于是，今晚花了整整4个小时扒了一遍（又花了一小时发布及排版了一遍），一开始想同时扒剧情结构和字谜的，发现对精神分裂的控制力是在是很艰难的考验，那么今天就先记录字谜这条线吧，明天再扒故事线。
@@ -24,7 +22,7 @@
 
 【范例】我在没有医院大楼的情况下教野生动物。12个字母
 
-![](../../../../.gitbook/assets/tv/Inside No. 9/Inside9 S3E3/Inside9 S3E3 (4).jpg)
+![Inside9_S3E3](../../../../assets/tv/Inside_no9/Inside9_S3E3/Inside9_S3E3_不怎么高明我承认.jpg)
 
  “I teach” or “Building”. The word “Wild” is what we refer to as an anagram-indicator. It suggests the letters can be jumbled up and rearranged. So anything such as “upset”, “excited”, “insane”. It’s telling us to mix up the letters.
 
@@ -36,29 +34,31 @@
 
  We’re two letters over. So we look here, “without hospital”. Now in terms of letters, what could “hospital” be? We need two letters, remember? If you were to have an accident, if I’d shot you here in the dark…you’d head straight for which department? \(Nina: A&E?\) Excellent!
 
- 我们多了两个字母。于是我们看这里，“没有医院”。现在用哪些字母可以表示“医院”？我们需要两个字母，记得吗？如果你出了事故，如果我在黑暗中开枪打伤了你，你会马上到哪个部门？（Nina：急诊室？）太棒了！![](https://img9.doubanio.com/view/thing_review/l/public/p1150671.jpg)
+ 我们多了两个字母。于是我们看这里，“没有医院”。现在用哪些字母可以表示“医院”？我们需要两个字母，记得吗？如果你出了事故，如果我在黑暗中开枪打伤了你，你会马上到哪个部门？（Nina：急诊室？）太棒了！
 
-![](../../../../.gitbook/assets/tv/Inside No. 9/Inside9 S3E3/Inside9 S3E3 (7).jpg)
+![](../../../../assets/tv/Inside_no9/Inside9_S3E3/Inside9_S3E3_没有医院.jpg)
 
  So if we remove “A” and “E” from “creature”, i.e. “creature without hospital” and mix up with “I teach”, then we get an anagram of 12 letters meaning “building”, which is…? “Architecture”!
 
- 那么如果我们把“生物”里的字母A和E去掉，也就是“没有医院的生物”，然后和“我教”里的字母混合，那么我们得到一个有12个字母的字母变位词，意思是“大楼”，那就是……？“建筑”！![](https://img9.doubanio.com/view/thing_review/l/public/p1150673.jpg)
+ 那么如果我们把“生物”里的字母A和E去掉，也就是“没有医院的生物”，然后和“我教”里的字母混合，那么我们得到一个有12个字母的字母变位词，意思是“大楼”，那就是……？“建筑”！
+
+![建筑 Architecture](https://img9.doubanio.com/view/thing_review/l/public/p1150673.jpg)
 
  I haven’t parsed it properly. I buried the anagram-indicator in the fodder. But it was simply an illustration.
 
  我分解的不够好，我把变位构词指示词埋藏到素材里了。不过这就是简单举例说明一下。
 
-【好了，教授这个”red-blooded mammal”炫耀完毕之后，复杂的解谜游戏正式开始。】![](https://img9.doubanio.com/view/thing_review/l/public/p1150677.jpg)
+【好了，教授这个”red-blooded mammal”炫耀完毕之后，复杂的解谜游戏正式开始。】
 
-![](../../../../.gitbook/assets/tv/Inside No. 9/Inside9 S3E3/Inside9 S3E3 (9).jpg)
+![](../../../../assets/tv/Inside_no9/Inside9_S3E3/Inside9_S3E3_第一行泡茶.jpg)
 
 【字谜1】
 
 1-across: To wound and wander destitute \(4, 3, 3\)
 
-横行第1个：受伤后一无所有地游荡![](https://img9.doubanio.com/view/thing_review/l/public/p1150678.jpg)
+横行第1个：受伤后一无所有地游荡
 
-![](../../../../.gitbook/assets/tv/Inside No. 9/Inside9 S3E3/Inside9 S3E3 (8).jpg)
+![](../../../../assets/tv/Inside_no9/Inside9_S3E3/Inside9_S3E3_受伤后一无所有地游荡.jpg)
 
 Look for a verb or an adjective that suggests movement. \(Nina: Wander?\) Bingo!
 
@@ -118,9 +118,9 @@ And what’s pink and hard in the mornings? The… \(Nina: A cock?\) Financial T
 
 \(Nina: T.\) That’s right! So put T on to a four-letter word for “Board”. A board has more than one meaning remember? What kind of board do you pay? Rent! You pay to board somewhere. So put Tory leader “T” onto “Rent”, it gives you… \(Nina: Trent! But that… that’s not a flower!\) Who said it was a flower? You said “Flower”. What I actually wrote was “Flow-er”. Something that flows. In this instance, and English river called the Trent.
 
-（Nina：T。）没错！那么T加上一个意思是“船板”的四个字母的词。“船板”不止有一个意思记得吗？有什么“板”是你要付钱的？租金！你付钱去睡在某个地方的“床板”上。所以把托利党的首字母T放到Rent前，就得到……（Nina：特伦特！但这个……这个不是花啊！）谁说是“花”了？你念的是“花”，实际上我写的是“流动物”。流动的某个东西。在这里说的是英国的一条河，叫做特伦特。![](https://img9.doubanio.com/view/thing_review/l/public/p1150679.jpg)
+（Nina：T。）没错！那么T加上一个意思是“船板”的四个字母的词。“船板”不止有一个意思记得吗？有什么“板”是你要付钱的？租金！你付钱去睡在某个地方的“床板”上。所以把托利党的首字母T放到Rent前，就得到……（Nina：特伦特！但这个……这个不是花啊！）谁说是“花”了？你念的是“花”，实际上我写的是“流动物”。流动的某个东西。在这里说的是英国的一条河，叫做特伦特。
 
-![](../../../../.gitbook/assets/tv/Inside No. 9/Inside9 S3E3/Inside9 S3E3 (6).jpg)
+![](../../../../assets/tv/Inside_no9/Inside9_S3E3/Inside9_S3E3_脑子弯弯贼多.jpg)
 
 【字谜5】
 
@@ -134,9 +134,9 @@ If you evacuate something, you clear it out. So we remove the middle letter to l
 
 \(Nina: Plan.\) “Plan”! Precisely! So we put “Plan” between “Swam” and “DS” to make “Swamplands”, meaning “Bog”! Yes?
 
-（Nina：计划。）计划！精准！所以我们把“Plan”放到“Swam”和DS中间，就组成了“Swamplands”，意思就是“Bog”！对吗？![](https://img9.doubanio.com/view/thing_review/l/public/p1150680.jpg)
+（Nina：计划。）计划！精准！所以我们把“Plan”放到“Swam”和DS中间，就组成了“Swamplands”，意思就是“Bog”！对吗？
 
-![](../../../../.gitbook/assets/tv/Inside No. 9/Inside9 S3E3/Inside9 S3E3 (10).jpg)
+![](../../../../assets/tv/Inside_no9/Inside9_S3E3/Inside9_S3E3_swam.jpg)
 
 \(Nina: Well shouldn’t it be “Bogs”\) No necessarily.
 
@@ -160,9 +160,9 @@ If you evacuate something, you clear it out. So we remove the middle letter to l
 
 \(Nina: Well, the crossword setter is you. So have you concealed a tiny amount, Mr. Sphinx? Maybe. So it’s “A” followed by an anagram of “Sphinx”. And “Tiny amount” is “Iota”, which is also the ninth letter the Greek alphabet which I’m sure you know, Professor Squires. And “Why” is a homophone of the letter Y…meaning “To take one’s breath away”.\)
 
-（Nina：你是纵横字谜的设置者，所以你隐瞒了一小点是吗，斯芬克斯先生？也许哦。所以这里填A，跟着是Sphinx的变位，“一小点“就是Iota，也是希腊字母表的第九个字母，我确定以及肯定你知道，斯夸尔教授。然后“为什么”和字母Y同音……意思是“让人无法呼吸”。）![](https://img9.doubanio.com/view/thing_review/l/public/p1150681.jpg)
+（Nina：你是纵横字谜的设置者，所以你隐瞒了一小点是吗，斯芬克斯先生？也许哦。所以这里填A，跟着是Sphinx的变位，“一小点“就是Iota，也是希腊字母表的第九个字母，我确定以及肯定你知道，斯夸尔教授。然后“为什么”和字母Y同音……意思是“让人无法呼吸”。）
 
-![](../../../../.gitbook/assets/tv/Inside No. 9/Inside9 S3E3/Inside9 S3E3 (1).jpg)
+![](../../../../assets/tv/Inside_no9/Inside9_S3E3/Inside9_S3E3_让人无法呼吸.jpg)
 
 【教授全身僵硬坐在扶手椅中，Nina就有如手握神来之笔开始嗖嗖填满各个格子。】
 
@@ -206,13 +206,13 @@ Well if we don’t start “One” or “Bun”, then we get “Neun” which is
 
 “Origins” telling us to take the first letters of “A species popularized savage”, giving us “Serpents”.
 
-“Origins”让我们从“一种让凶猛的繁盛”中取首字母，得出“毒蛇”。![](https://img9.doubanio.com/view/thing_review/l/public/p1150682.jpg)
+“Origins”让我们从“一种让凶猛的繁盛”中取首字母，得出“毒蛇”。
 
-![](../../../../.gitbook/assets/tv/Inside No. 9/Inside9 S3E3/Inside9 S3E3 (3).jpg)
+![](../../../../assets/tv/Inside_no9/Inside9_S3E3/Inside9_S3E3_凶猛大行其道.jpg)
 
-【教授把字母连起来告诉Nina，自己换了杯子，原来她才是要窒息的那个人。Nina开始全身变僵硬。教授打了电话后，泰勒博士一会儿就要出场了。】![](https://img9.doubanio.com/view/thing_review/l/public/p1150684.jpg)
+【教授把字母连起来告诉Nina，自己换了杯子，原来她才是要窒息的那个人。Nina开始全身变僵硬。教授打了电话后，泰勒博士一会儿就要出场了。】
 
-![](../../../../.gitbook/assets/tv/Inside No. 9/Inside9 S3E3/Inside9 S3E3 (11).jpg)
+![](../../../../assets/tv/Inside_no9/Inside9_S3E3/Inside9_S3E3_杯子cups.jpg)
 
 【字谜11】
 
@@ -246,9 +246,9 @@ The American poet is Edgar Guest. Mr. E Guest. “A riddle solved” is a myster
 
 （泰勒博士：“追捕”一般代表捕“鱼”，这个我非常清楚。“以前的火车”可能是“蒸汽”（河豚）。所以没错，“河豚”。）
 
-【此仇省略泰勒博士复仇的1024x576字。离开前，泰勒博士用教授的中间名Hector给整个纵横字谜划出了重点。教授饮弹自尽，脑浆血液喷到了最后一条谜底上。】![](https://img9.doubanio.com/view/thing_review/l/public/p1150685.jpg)
+【此仇省略泰勒博士复仇的1024x576字。离开前，泰勒博士用教授的中间名Hector给整个纵横字谜划出了重点。教授饮弹自尽，脑浆血液喷到了最后一条谜底上。】
 
-![](../../../../.gitbook/assets/tv/Inside No. 9/Inside9 S3E3image.png)
+![](../../../../assets/tv/Inside_no9/Inside9_S3E3image.png)
 
 如果你看到了这里，那么谢谢你。如有你发现了任何需要更正的地方，并且有着讨论的热情，请尽请留言吧！我终于可以支撑起关节变僵硬疼痛的双腿，挪到厕所去evacuate了……
 
@@ -256,13 +256,11 @@ The American poet is Edgar Guest. Mr. E Guest. “A riddle solved” is a myster
 
 在另一篇影评指引下搬过来这集播出当天英国卫报的填字游戏，即是这集当中的所有谜题。
 
-![](https://img9.doubanio.com/view/thing_review/l/public/p1150708.jpg)![](https://img9.doubanio.com/view/thing_review/l/public/p1150707.jpg)![](https://img9.doubanio.com/view/thing_review/l/public/p1150709.jpg)![](https://img9.doubanio.com/view/thing_review/l/public/p1150710.jpg)
+![](../../../../assets/tv/Inside_no9/Inside9_S3E3/Inside9_S3E3_英国卫报的填字游戏1.jpg)
 
-![](../../../../.gitbook/assets/tv/Inside No. 9/Inside9 S3E3/Inside9 S3E3 (12).jpg)
+![](../../../../assets/tv/Inside_no9/Inside9_S3E3/Inside9_S3E3_英国卫报的填字游戏2.jpg)
 
-![](../../../../.gitbook/assets/tv/Inside No. 9/Inside9 S3E3/Inside9 S3E3 (5).jpg)
+![](../../../../assets/tv/Inside_no9/Inside9_S3E3/Inside9_S3E3_英国卫报的填字游戏3.jpg)
 
-![](../../../../.gitbook/assets/tv/Inside No. 9/Inside9 S3E3/Inside9 S3E3 (13).jpg)
-
-![](../../../../.gitbook/assets/tv/Inside No. 9/Inside9 S3E3/Inside9 S3E3 (14).jpg)
+![](../../../../assets/tv/Inside_no9/Inside9_S3E3/Inside9_S3E3_英国卫报的填字游戏4.jpg)
 
