@@ -1,6 +1,6 @@
 # 九号秘事S3E3
 
-> [https://movie.douban.com/review/9028822/](https://movie.douban.com/review/9028822/)
+> [豆瓣 - 李安宝 ](https://www.douban.com/people/amberlq/) 2017-12-30  https://movie.douban.com/review/9028822/
 
  在我心中，S3E3是让我高度集中运转的兴奋剂，是戏剧中的高智商的经典！看第二遍的时候，就燃起了对那些crossword的熊熊好奇心，有了强烈的冲动要把他们都弄明白。于是，今晚花了整整4个小时扒了一遍（又花了一小时发布及排版了一遍），一开始想同时扒剧情结构和字谜的，发现对精神分裂的控制力是在是很艰难的考验，那么今天就先记录字谜这条线吧，明天再扒故事线。
 
