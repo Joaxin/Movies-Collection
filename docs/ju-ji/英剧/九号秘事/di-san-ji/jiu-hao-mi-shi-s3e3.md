@@ -22,7 +22,7 @@
 
 【范例】我在没有医院大楼的情况下教野生动物。12个字母
 
-![Inside9_S3E3](../../../../assets/tv/Inside_no9/Inside9_S3E3/Inside9_S3E3_不怎么高明我承认.jpg)
+![Inside9_S3E3](../../../../_media/tv/Inside_no9/Inside9_S3E3/Inside9_S3E3_不怎么高明我承认.jpg)
 
  “I teach” or “Building”. The word “Wild” is what we refer to as an anagram-indicator. It suggests the letters can be jumbled up and rearranged. So anything such as “upset”, “excited”, “insane”. It’s telling us to mix up the letters.
 
@@ -36,7 +36,7 @@
 
  我们多了两个字母。于是我们看这里，“没有医院”。现在用哪些字母可以表示“医院”？我们需要两个字母，记得吗？如果你出了事故，如果我在黑暗中开枪打伤了你，你会马上到哪个部门？（Nina：急诊室？）太棒了！
 
-![](../../../../assets/tv/Inside_no9/Inside9_S3E3/Inside9_S3E3_没有医院.jpg)
+![](../../../../_media/tv/Inside_no9/Inside9_S3E3/Inside9_S3E3_没有医院.jpg)
 
  So if we remove “A” and “E” from “creature”, i.e. “creature without hospital” and mix up with “I teach”, then we get an anagram of 12 letters meaning “building”, which is…? “Architecture”!
 
@@ -50,7 +50,7 @@
 
 【好了，教授这个”red-blooded mammal”炫耀完毕之后，复杂的解谜游戏正式开始。】
 
-![](../../../../assets/tv/Inside_no9/Inside9_S3E3/Inside9_S3E3_第一行泡茶.jpg)
+![](../../../../_media/tv/Inside_no9/Inside9_S3E3/Inside9_S3E3_第一行泡茶.jpg)
 
 【字谜1】
 
@@ -58,7 +58,7 @@
 
 横行第1个：受伤后一无所有地游荡
 
-![](../../../../assets/tv/Inside_no9/Inside9_S3E3/Inside9_S3E3_受伤后一无所有地游荡.jpg)
+![](../../../../_media/tv/Inside_no9/Inside9_S3E3/Inside9_S3E3_受伤后一无所有地游荡.jpg)
 
 Look for a verb or an adjective that suggests movement. \(Nina: Wander?\) Bingo!
 
@@ -120,7 +120,7 @@ And what’s pink and hard in the mornings? The… \(Nina: A cock?\) Financial T
 
 （Nina：T。）没错！那么T加上一个意思是“船板”的四个字母的词。“船板”不止有一个意思记得吗？有什么“板”是你要付钱的？租金！你付钱去睡在某个地方的“床板”上。所以把托利党的首字母T放到Rent前，就得到……（Nina：特伦特！但这个……这个不是花啊！）谁说是“花”了？你念的是“花”，实际上我写的是“流动物”。流动的某个东西。在这里说的是英国的一条河，叫做特伦特。
 
-![](../../../../assets/tv/Inside_no9/Inside9_S3E3/Inside9_S3E3_脑子弯弯贼多.jpg)
+![](../../../../_media/tv/Inside_no9/Inside9_S3E3/Inside9_S3E3_脑子弯弯贼多.jpg)
 
 【字谜5】
 
@@ -136,7 +136,7 @@ If you evacuate something, you clear it out. So we remove the middle letter to l
 
 （Nina：计划。）计划！精准！所以我们把“Plan”放到“Swam”和DS中间，就组成了“Swamplands”，意思就是“Bog”！对吗？
 
-![](../../../../assets/tv/Inside_no9/Inside9_S3E3/Inside9_S3E3_swam.jpg)
+![](../../../../_media/tv/Inside_no9/Inside9_S3E3/Inside9_S3E3_swam.jpg)
 
 \(Nina: Well shouldn’t it be “Bogs”\) No necessarily.
 
@@ -162,7 +162,7 @@ If you evacuate something, you clear it out. So we remove the middle letter to l
 
 （Nina：你是纵横字谜的设置者，所以你隐瞒了一小点是吗，斯芬克斯先生？也许哦。所以这里填A，跟着是Sphinx的变位，“一小点“就是Iota，也是希腊字母表的第九个字母，我确定以及肯定你知道，斯夸尔教授。然后“为什么”和字母Y同音……意思是“让人无法呼吸”。）
 
-![](../../../../assets/tv/Inside_no9/Inside9_S3E3/Inside9_S3E3_让人无法呼吸.jpg)
+![](../../../../_media/tv/Inside_no9/Inside9_S3E3/Inside9_S3E3_让人无法呼吸.jpg)
 
 【教授全身僵硬坐在扶手椅中，Nina就有如手握神来之笔开始嗖嗖填满各个格子。】
 
@@ -208,11 +208,11 @@ Well if we don’t start “One” or “Bun”, then we get “Neun” which is
 
 “Origins”让我们从“一种让凶猛的繁盛”中取首字母，得出“毒蛇”。
 
-![](../../../../assets/tv/Inside_no9/Inside9_S3E3/Inside9_S3E3_凶猛大行其道.jpg)
+![](../../../../_media/tv/Inside_no9/Inside9_S3E3/Inside9_S3E3_凶猛大行其道.jpg)
 
 【教授把字母连起来告诉Nina，自己换了杯子，原来她才是要窒息的那个人。Nina开始全身变僵硬。教授打了电话后，泰勒博士一会儿就要出场了。】
 
-![](../../../../assets/tv/Inside_no9/Inside9_S3E3/Inside9_S3E3_杯子cups.jpg)
+![](../../../../_media/tv/Inside_no9/Inside9_S3E3/Inside9_S3E3_杯子cups.jpg)
 
 【字谜11】
 
@@ -248,7 +248,7 @@ The American poet is Edgar Guest. Mr. E Guest. “A riddle solved” is a myster
 
 【此仇省略泰勒博士复仇的1024x576字。离开前，泰勒博士用教授的中间名Hector给整个纵横字谜划出了重点。教授饮弹自尽，脑浆血液喷到了最后一条谜底上。】
 
-![](../../../../assets/tv/Inside_no9/Inside9_S3E3image.png)
+![](../../../../_media/tv/Inside_no9/Inside9_S3E3image.png)
 
 如果你看到了这里，那么谢谢你。如有你发现了任何需要更正的地方，并且有着讨论的热情，请尽请留言吧！我终于可以支撑起关节变僵硬疼痛的双腿，挪到厕所去evacuate了……
 
@@ -256,11 +256,11 @@ The American poet is Edgar Guest. Mr. E Guest. “A riddle solved” is a myster
 
 在另一篇影评指引下搬过来这集播出当天英国卫报的填字游戏，即是这集当中的所有谜题。
 
-![](../../../../assets/tv/Inside_no9/Inside9_S3E3/Inside9_S3E3_英国卫报的填字游戏1.jpg)
+![](../../../../_media/tv/Inside_no9/Inside9_S3E3/Inside9_S3E3_英国卫报的填字游戏1.jpg)
 
-![](../../../../assets/tv/Inside_no9/Inside9_S3E3/Inside9_S3E3_英国卫报的填字游戏2.jpg)
+![](../../../../_media/tv/Inside_no9/Inside9_S3E3/Inside9_S3E3_英国卫报的填字游戏2.jpg)
 
-![](../../../../assets/tv/Inside_no9/Inside9_S3E3/Inside9_S3E3_英国卫报的填字游戏3.jpg)
+![](../../../../_media/tv/Inside_no9/Inside9_S3E3/Inside9_S3E3_英国卫报的填字游戏3.jpg)
 
-![](../../../../assets/tv/Inside_no9/Inside9_S3E3/Inside9_S3E3_英国卫报的填字游戏4.jpg)
+![](../../../../_media/tv/Inside_no9/Inside9_S3E3/Inside9_S3E3_英国卫报的填字游戏4.jpg)
 

@@ -9,7 +9,7 @@
 
 * Docsify
 
-  * [Docsify](wiki/docsify/)
-  * [Music](wiki/docsify/music.md)
+  * [Docsify](docs/wiki/docsify/)
+  * [Music](docs/wiki/docsify/music.md)
   * [定制导航栏](zh-cn/custom-navbar.md)
   * [封面](zh-cn/cover.md)
